@@ -27,7 +27,7 @@ private:
     QStandardItemModel *theModel;//数据模型
     QItemSelectionModel *theSelection;//选择模型
     void iniModelFromStringList(QStringList&); //初始化数据模型
-
+    //1211313124141421411
     Ui::MainWindow3 *ui;
 
 private slots:
