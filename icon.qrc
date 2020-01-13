@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../QTIcon/4打开文件.png</file>
+        <file>../QTIcon/保存.png</file>
+        <file>../QTIcon/删 除.png</file>
+        <file>../QTIcon/删除.png</file>
+        <file>../QTIcon/复制.png</file>
+        <file>../QTIcon/插入行.png</file>
+        <file>../QTIcon/添加.png</file>
+        <file>../QTIcon/退出 (2).png</file>
+    </qresource>
+</RCC>
