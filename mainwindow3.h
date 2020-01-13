@@ -32,7 +32,7 @@ private:
 
 private slots:
     void on_currentChanged(const QModelIndex &current, const QModelIndex &previous);
-
+    //changed
     void on_actOpen_triggered();
 };
 
